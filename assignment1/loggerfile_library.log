@@ -1,0 +1,233 @@
+2020-02-12 12:35:08,194:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-12 12:35:08,201:Using selector: SelectSelector:DEBUG
+2020-02-12 12:38:19,413:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-12 12:38:19,418:Using selector: SelectSelector:DEBUG
+2020-02-12 14:40:32,434:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-12 14:40:32,472:Using selector: SelectSelector:DEBUG
+2020-02-13 11:13:53,010:Not Found: /book3.jpg:WARNING
+2020-02-13 11:13:53,013:Not Found: /book2.jpg:WARNING
+2020-02-13 11:13:53,016:Not Found: /book1.jpg:WARNING
+2020-02-13 11:15:09,180:Not Found: /book1.jpg:WARNING
+2020-02-13 11:15:09,181:Not Found: /book2.jpg:WARNING
+2020-02-13 11:15:09,183:Not Found: /book3.jpg:WARNING
+2020-02-13 11:16:45,134:Not Found: /templates/library/book2.jpg:WARNING
+2020-02-13 11:16:45,137:Not Found: /book3.jpg:WARNING
+2020-02-13 11:16:45,148:Not Found: /book1.jpg:WARNING
+2020-02-13 11:17:33,676:Not Found: /book3.jpg:WARNING
+2020-02-13 11:17:33,678:Not Found: /book1.jpg:WARNING
+2020-02-13 11:18:25,671:Not Found: /book3.jpg:WARNING
+2020-02-13 11:18:25,677:Not Found: /book2.jpg:WARNING
+2020-02-13 11:18:25,680:Not Found: /book1.jpg:WARNING
+2020-02-13 11:20:36,310:Not Found: /book2.jpg:WARNING
+2020-02-13 11:20:36,317:Not Found: /book3.jpg:WARNING
+2020-02-13 11:20:36,328:Not Found: /book1.jpg:WARNING
+2020-02-13 11:48:56,082:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\assignment1\settings.py changed, reloading.:INFO
+2020-02-13 12:21:10,587:Not Found: /book1.jpg:WARNING
+2020-02-13 12:21:10,597:Not Found: /book3.jpg:WARNING
+2020-02-13 12:21:17,816:Not Found: /book3.jpg:WARNING
+2020-02-13 12:21:17,828:Not Found: /book1.jpg:WARNING
+2020-02-13 12:21:41,196:Not Found: /book3.jpg:WARNING
+2020-02-13 12:21:41,207:Not Found: /book1.jpg:WARNING
+2020-02-13 12:23:00,032:Not Found: /book3.jpg:WARNING
+2020-02-13 12:23:00,081:Not Found: /book1.jpg:WARNING
+2020-02-13 12:29:16,503:Not Found: /book3.jpg:WARNING
+2020-02-13 12:29:16,516:Not Found: /book1.jpg:WARNING
+2020-02-13 14:46:40,791:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-13 14:47:39,027:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-13 14:49:43,072:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-13 14:52:43,121:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-14 10:42:19,713:Using selector: SelectSelector:DEBUG
+2020-02-14 11:37:33,357:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-14 11:37:33,386:Using selector: SelectSelector:DEBUG
+2020-02-14 14:50:58,107:Not Found: /favicon.ico:WARNING
+2020-02-14 15:01:21,428:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-14 15:01:21,441:Using selector: SelectSelector:DEBUG
+2020-02-14 15:01:40,613:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-14 15:01:40,628:Using selector: SelectSelector:DEBUG
+2020-02-14 15:02:04,793:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-14 15:02:04,798:Using selector: SelectSelector:DEBUG
+2020-02-14 15:02:09,542:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-14 15:02:09,546:Using selector: SelectSelector:DEBUG
+2020-02-14 15:02:28,535:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-14 15:02:28,542:Using selector: SelectSelector:DEBUG
+2020-02-14 15:22:27,616:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-14 15:22:27,616:Using selector: SelectSelector:DEBUG
+2020-02-14 15:25:45,340:Forbidden (CSRF token missing or incorrect.): /login_page:WARNING
+2020-02-14 15:26:00,074:Using selector: SelectSelector:DEBUG
+2020-02-14 15:27:21,189:list of books:DEBUG
+2020-02-14 15:27:50,396:list of books:DEBUG
+2020-02-14 15:28:08,727:list of books:DEBUG
+2020-02-14 16:00:59,216:list of books:DEBUG
+2020-02-14 16:02:55,100:list of books:DEBUG
+2020-02-14 16:17:17,913:Internal Server Error: /log_out:ERROR
+Traceback (most recent call last):
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py", line 36, in log_out
+    del request.session['username']
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 71, in __delitem__
+    del self._session[key]
+KeyError: 'username'
+2020-02-14 16:17:18,871:Internal Server Error: /log_out:ERROR
+Traceback (most recent call last):
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py", line 36, in log_out
+    del request.session['username']
+  File "C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\venv\lib\site-packages\django\contrib\sessions\backends\base.py", line 71, in __delitem__
+    del self._session[key]
+KeyError: 'username'
+2020-02-14 16:17:24,606:Forbidden (CSRF token missing or incorrect.): /login_page:WARNING
+2020-02-14 16:17:43,192:Not Found: /calcultor:WARNING
+2020-02-14 16:18:56,259:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\assignment1\urls.py changed, reloading.:INFO
+2020-02-14 16:18:56,271:Using selector: SelectSelector:DEBUG
+2020-02-14 16:19:07,517:Using selector: SelectSelector:DEBUG
+2020-02-14 16:19:28,858:Not Found: /calcultor/:WARNING
+2020-02-14 16:21:42,020:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\assignment1\urls.py changed, reloading.:INFO
+2020-02-14 16:21:42,022:Using selector: SelectSelector:DEBUG
+2020-02-17 11:33:53,909:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-17 11:33:53,927:Using selector: SelectSelector:DEBUG
+2020-02-17 11:36:49,351:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-17 11:36:49,356:Using selector: SelectSelector:DEBUG
+2020-02-17 11:40:02,755:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-17 11:40:02,758:Using selector: SelectSelector:DEBUG
+2020-02-17 11:43:15,315:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-17 11:43:15,318:Using selector: SelectSelector:DEBUG
+2020-02-17 11:43:44,178:Using selector: SelectSelector:DEBUG
+2020-02-17 11:44:24,966:Invalid User:DEBUG
+2020-02-17 11:45:41,069:C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:INFO
+2020-02-17 11:45:41,071:Using selector: SelectSelector:DEBUG
+2020-02-17 11:45:50,669:  Invalid User:  DEBUG
+2020-02-17 11:47:44,337:  User is Created:  DEBUG
+2020-02-17 11:48:02,300:  User is present into the system:  DEBUG
+2020-02-17 11:49:04,583:  list of books:  DEBUG
+2020-02-17 11:49:19,545:  list of books:  DEBUG
+2020-02-17 11:49:39,797:  list of books:  DEBUG
+2020-02-17 11:50:11,794:  list of books:  DEBUG
+2020-02-17 11:54:01,621:  list of books:  DEBUG
+2020-02-17 11:54:06,994:  list of books:  DEBUG
+2020-02-17 11:55:32,829:  list of books:  DEBUG
+2020-02-17 11:55:43,686:  User has logout from the system:  DEBUG
+2020-02-17 12:23:30,445:  User is present into the system:  DEBUG
+2020-02-17 12:25:52,245:  User has logout from the system:  DEBUG
+2020-02-17 12:32:09,858:  C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:  INFO
+2020-02-17 12:32:09,864:  Using selector: SelectSelector:  DEBUG
+2020-02-17 12:32:25,535:  C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:  INFO: trigger_reload :
+2020-02-17 12:32:25,539:  Using selector: SelectSelector:  DEBUG: __init__ :
+2020-02-17 12:33:25,155:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-02-17 12:33:41,925:  Invalid User:  DEBUG: login_page :root
+2020-02-17 12:33:51,989:  User is present into the system:  DEBUG: login_page :root
+2020-02-17 12:33:56,046:  list of books:  DEBUG: view_book :root
+2020-02-17 12:34:17,066:  User is present into the system:  DEBUG: login_page :root
+2020-02-17 12:34:38,665:  list of books:  DEBUG: view_book :root
+2020-02-17 12:34:44,043:  User has logout from the system:  DEBUG: log_out :root
+2020-02-17 12:39:55,781:  C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:  INFO: trigger_reload :django.utils.autoreload
+2020-02-17 12:39:55,788:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-02-17 12:40:24,559:  C:\Users\Aishwarya.Ghatge\PycharmProjects\DjangoAssignment\assignment1\library\views.py changed, reloading.:  INFO: trigger_reload :django.utils.autoreload
+2020-02-17 12:40:24,562:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-02-17 12:40:40,203:  Invalid User:  DEBUG: login_page :root
+2020-02-17 12:40:50,956:  User is present into the system:  DEBUG: login_page :root
+2020-02-17 12:42:04,120:  addeded to the list:  DEBUG: add_book :root
+2020-02-17 12:42:06,890:  list of books:  DEBUG: view_book :root
+2020-02-17 12:42:15,879:  User has logout from the system:  DEBUG: log_out :root
+2020-02-18 09:55:56,677:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-02-24 10:44:36,906:  Not Found: /favicon.ico:  WARNING: log_response :django.request
+2020-02-24 10:44:50,822:  User is present into the system:  DEBUG: login_page :root
+2020-02-24 10:45:09,889:  list of books:  DEBUG: view_book :root
+2020-02-24 10:45:22,140:  User is present into the system:  DEBUG: login_page :root
+2020-02-24 10:46:03,884:  addeded to the list:  DEBUG: add_book :root
+2020-02-24 10:46:08,888:  list of books:  DEBUG: view_book :root
+2020-02-24 10:46:42,334:  list of books:  DEBUG: view_book :root
+2020-02-24 10:46:59,770:  Book is deleted from list:  DEBUG: delete_book :root
+2020-02-24 10:47:14,719:  list of books:  DEBUG: view_book :root
+2020-02-24 10:47:21,906:  User has logout from the system:  DEBUG: log_out :root
+2020-02-24 11:03:29,189:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-02-24 11:03:45,427:  User is present into the system:  DEBUG: login_page :root
+2020-02-24 11:07:41,744:  User is present into the system:  DEBUG: login_page :root
+2020-02-24 11:08:46,693:  User is present into the system:  DEBUG: login_page :root
+2020-02-24 11:18:15,171:  User has logout from the system:  DEBUG: log_out :root
+2020-02-25 17:55:41,829:  Not Found: /favicon.ico:  WARNING: log_response :django.request
+2020-02-25 17:55:41,838:  Not Found: /favicon.ico:  WARNING: log_response :django.request
+2020-02-25 17:55:54,461:  User is present into the system:  DEBUG: login_page :root
+2020-02-25 17:56:13,791:  addeded to the list:  DEBUG: add_book :root
+2020-02-25 17:56:18,793:  list of books:  DEBUG: view_book :root
+2020-02-25 17:59:45,217:  User is present into the system:  DEBUG: login_page :root
+2020-02-25 17:59:52,757:  list of books:  DEBUG: view_book :root
+2020-02-25 18:09:27,605:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-02-26 08:26:52,949:  User is present into the system:  DEBUG: login_page :root
+2020-02-26 08:27:15,044:  list of books:  DEBUG: view_book :root
+2020-02-27 15:16:19,220:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-03-14 15:05:31,199:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 15:06:08,382:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 15:06:11,249:  list of books:  DEBUG: view_book :root
+2020-03-14 15:07:10,140:  addeded to the list:  DEBUG: add_book :root
+2020-03-14 15:07:17,905:  list of books:  DEBUG: view_book :root
+2020-03-14 15:07:41,502:  Book is deleted from list:  DEBUG: delete_book :root
+2020-03-14 15:13:48,239:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 15:16:39,613:  User has logout from the system:  DEBUG: log_out :root
+2020-03-14 20:20:16,049:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-03-14 20:20:47,163:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:21:09,016:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:21:56,450:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:23:01,285:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:23:31,214:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:24:15,760:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:24:40,214:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:25:10,499:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:29:44,585:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:34:02,897:  User is present into the system:  DEBUG: login_page :root
+2020-03-14 20:34:21,081:  list of books:  DEBUG: view_book :root
+2020-03-14 20:34:41,216:  Book is deleted from list:  DEBUG: delete_book :root
+2020-03-14 20:34:54,615:  Book is not in the list:  DEBUG: search_book :root
+2020-03-14 20:35:22,835:  User has logout from the system:  DEBUG: log_out :root
+2020-03-16 10:53:43,625:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-03-16 10:54:21,489:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 10:56:05,710:  User has logout from the system:  DEBUG: log_out :root
+2020-03-16 10:57:06,354:  User is Created:  DEBUG: register :root
+2020-03-16 10:57:17,212:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 10:57:22,737:  User has logout from the system:  DEBUG: log_out :root
+2020-03-16 10:58:17,963:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
+2020-03-16 13:36:20,739:  Not Found: /favicon.ico:  WARNING: log_response :django.request
+2020-03-16 13:36:38,313:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 14:00:11,267:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 14:00:11,443:  Not Found: /book2.jpg:  WARNING: log_response :django.request
+2020-03-16 14:00:11,447:  Not Found: /books1.jpg:  WARNING: log_response :django.request
+2020-03-16 14:00:11,465:  Not Found: /book11.jpg:  WARNING: log_response :django.request
+2020-03-16 15:19:33,331:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 15:19:33,486:  Not Found: /book2.jpg:  WARNING: log_response :django.request
+2020-03-16 15:19:33,492:  Not Found: /books1.jpg:  WARNING: log_response :django.request
+2020-03-16 15:19:33,506:  Not Found: /book11.jpg:  WARNING: log_response :django.request
+2020-03-16 15:20:11,543:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 15:20:11,677:  Not Found: /book11.jpg:  WARNING: log_response :django.request
+2020-03-16 15:20:11,682:  Not Found: /books1.jpg:  WARNING: log_response :django.request
+2020-03-16 15:21:42,578:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 15:57:10,005:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 15:57:41,317:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 15:58:17,640:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:06:10,486:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:12:36,046:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:12:41,477:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:16:39,789:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:17:07,867:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:17:26,084:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:29:40,497:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:31:01,102:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:32:02,209:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:32:48,053:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:33:07,396:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:33:40,077:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:33:56,848:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:41:46,432:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:44:40,837:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:48:57,110:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:49:21,836:  User is present into the system:  DEBUG: login_page :root
+2020-03-16 16:50:21,269:  list of books:  DEBUG: view_book :root
+2020-03-16 16:50:38,186:  Using selector: SelectSelector:  DEBUG: __init__ :asyncio
